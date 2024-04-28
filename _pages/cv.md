@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+## Master of Science
+University of Montana, 2026 (expected)  
+Geography
+
+## Bachelor of Science
+University of Montana, 2017  
+Geography
+Cerificate in Geographic Information Systems  
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Geospatial Analyst  
+**onX Maps, Inc.** | June 2017 – May 2024  
+I transformed source spatial data and produced fresh data sets in a way that end users can easily understand, enabling outdoor recreationists to make informed decisions. I also developed scripts using Python and associated libraries to standardize data and automate tasks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## GIS Technician  
+**City of Missoula** | December 2016 - May 2017  
+Utilized Geographic Information System (GIS) technology to perform in-depth analysis, facilitating strategic planning and decision-making in urban development projects. Created maps to support city planning efforts helping to beautify the city space and maximize efficient land use.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## GIS Technician/Cartographer  
+**Panthera/University of Montana** | May 2015 - May 2017  
+Generated new spatial data utilizing satellite and aerial imagery, enhancing the accuracy of geospatial analysis. Produced new National Park maps for park rangers in Indian and Bhutan, allowing them to better allocate resources to specific locations.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Information Systems Administrator  
+**Rancho Santa Ana Botanic Garden** | July 2005 - June 2012  
+Spearheaded the implementation of an organization-wide technology plan. Managed (LAN/WAN) operations along with hardware and software systems, ensuring seamless network performance.
