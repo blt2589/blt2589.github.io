@@ -22,7 +22,7 @@ Cerificate in Geographic Information Systems
 
 <br />
 
-Work experience
+Work experience  
 ======
 ## Geospatial Analyst  
 **onX Maps, Inc.** | June 2017 – May 2024  
