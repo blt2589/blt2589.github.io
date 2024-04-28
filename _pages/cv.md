@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 ## Master of Science
-[University of Montana](https://www.umt.edu/), 2026 (expected)  
+[University of Montana](https://www.umt.edu/){:target="_blank"}, 2026 (expected)  
 Geography
 
 ## Bachelor of Science
-[University of Montana](https://www.umt.edu/), 2017  
+[University of Montana](https://www.umt.edu/){:target="_blank"}, 2017  
 Geography
 Cerificate in Geographic Information Systems  
 
